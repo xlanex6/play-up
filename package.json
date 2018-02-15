@@ -1,9 +1,9 @@
 {
-  "name": "codeless",
+  "name": "Play-Up",
   "version": "1.0.0",
-  "description": "Middleman starter template with yarn & webpack",
-  "repository": "git@github.com:flexbox/codeless",
-  "author": "flexbox <dleuliette@gmail.com>",
+  "description": "Play-up",
+  "repository": "git@github.com:xlanex6/play-up",
+  "author": "xlanex6 <alexduval71@gmail.com>",
   "license": "MIT",
   "dependencies": {},
   "devDependencies": {
