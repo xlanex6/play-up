@@ -1,9 +1,6 @@
-<img src="https://raw.githubusercontent.com/flexbox/codeless/master/source/assets/images/codeless-middleman.jpg" alt="Middleman advanced template" align="center" />
+<img src="https://raw.githubusercontent.com/xlanex6/play-up/master/source/assets/images/logos" alt="Play up" align="center" />
 <br />
 
-<div align="center"><strong>Start your next Middleman 4 project in seconds with the best DX</strong></div>
-<div align="center">A highly scalable, Middleman template with a focus on SEO & best practices.</div>
-<br />
 
 [![Greenkeeper badge](https://badges.greenkeeper.io/flexbox/codeless.svg)](https://greenkeeper.io/)
 
