@@ -1,1 +1,1 @@
-<img src="https://raw.githubusercontent.com/xlanex6/play-up/master/source/assets/images/logos" alt="Play up" align="center" />
+<img src="https://raw.githubusercontent.com/xlanex6/play-up/master/source/assets/images/logos/logo-play-up.png" alt="Play up" align="center" />
